@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185289034570",
+    "project_id": "usm-dam020-2c782",
+    "storage_bucket": "usm-dam020-2c782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185289034570:android:833e7d6977290754b28fb3",
+        "android_client_info": {
+          "package_name": "com.bascuAlarcon.ejercicio_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185289034570-tda5u13hevif5ph5t9cuco6o3ndi21e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMYb-N7n4VBZrVRjCvZtxLDmn4gVmEic4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185289034570-tda5u13hevif5ph5t9cuco6o3ndi21e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
